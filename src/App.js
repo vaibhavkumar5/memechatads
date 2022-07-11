@@ -12,7 +12,7 @@ function App() {
       <div className='container'>
         <div className='row'>
             <div className='col-1'>
-                <h3>Amy wants you to send <br /> these memes to her, join <br /> her and 3 million+ meme <br/> lovers
+                <h3>Amy wants you to send <br /> these memes to her, join <br /> her and 10 million+ meme <br/> lovers
                  </h3>
                  <a href='https://memechat.store/' target="_blank" rel="noreferrer"> <button className='btn'> Download Now</button></a>
                 
